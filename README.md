@@ -6,8 +6,7 @@ An app for authenticating Shopify webhook and listening to specific store events
 
 Create a `.env` file and store `secretKey` in there.
 
-Example:
-	- secretKey = 570440073b0fce4ae8cd67a22c1GF445
+Example: `secretKey = 570440073b0fce4ae8cd67a22c1GF445`
 
 ## Start Application
 
